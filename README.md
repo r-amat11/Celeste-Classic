@@ -1,6 +1,6 @@
 # CelesteClassic
 
-Game developed using C++ with OpenGL libraries.
+Game developed using C++ with GLM libraries.
 
 To try the game execute /bin/Celeste.exe.
 
